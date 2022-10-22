@@ -2089,5 +2089,26 @@
       ],
       "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"
     },
-
+    
+    {
+    "id": 105,
+    "name": "Mismatched Seasson 2",
+    "rating": 5.6,
+    "description": "In first season of mismatched, the rift was formed between rishi and dimple, misunderstanding between namrata and selena and romance between zeenat and sid was shown. In this season the same story will continue and new characteer will be introduced",
+    "category": ["Comedy", "Drama", "romance"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": [
+        "prajakta koli",
+        "Rohit Saraf",
+        "vihaan samat",
+        "Raanvijay Singha",
+        "Vidya malvade",
+        "Sanjana Sarthy",
+        "Divyani shorey",
+        "Taaruk raina"
+      ],
+      "director": ["Akarsh Khurana", "Nipun dharmadhikari"
+    }             
+                   
 ]
