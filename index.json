@@ -2086,8 +2086,33 @@
         "Vedant Sinha",
         "Shahab Ali",
         "Shreya Dhanwanthary"
+      ],"director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"
+    }, 
+                   {
+    "id": 105,
+    "name": "Undekhi",
+    "rating": 8,
+    "description": "The series depicts the two aspects of the society - the power-drunk influential people who think they can get away with anything and the oppressed, subjected to years of torture, who finally decide to bring themselves to justice.",
+    "category": ["crime thriller"],
+    "platform": "SonyLiv",
+    "casting": {
+      "actors": [
+        "Dibyendu Bhattacharya",
+        "Surya Sharma ",
+        "Harsh Chhaya",
+        "Anchal Singh",
+        "Abhishek Chauhan",
+        "Ankur Rathee",
+        "Ayn Zoya ",
+        "Apeksha Porwal",
+        "Karmveer Choudhary",
+        "Mandeep Bamra",
+        "Vaarun Bhagat",
+        "Sayandeep Sengupta",
+        "Meenakshi Sethi",
+        "Shivaani Sopuri","Shivangi Singh"
       ],
-      "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"
-    }
+      "director": "Ashish R. Shukla."
+    },
 
 ]
