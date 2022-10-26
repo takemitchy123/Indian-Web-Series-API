@@ -2114,5 +2114,32 @@
       ],
       "director": "Ashish R. Shukla."
     },
+    {
+    "id": 106,
+    "name": "Inside Edge",
+    "rating": 8,
+    "description": "Zarina Malik, co- owner of the Mumbai Mavericks, races against time to find a new financial partner, or risk losing the team. Meanwhile the team has a young recruit who gets his first taste of the big, bad world of the PPL.",
+    "category": ["sport drama"],
+    "platform": "Amazon Prime",
+    "casting": {
+      "actors": [
+        "Richa Chadha",
+        "Tanuj Virwani",
+        "Vivek Oberoi",
+        "Sapna Pabbi",
+        "Aamir Bashir",
+        "Sayani Gupta",
+        "Angad Bedi",
+        "Siddhant Chaturvedi",
+        "Amit Sial",
+        "Jitin Gulati",
+        "Akshay Oberoi",
+        "Himanshi Choudhry",
+        "Manu Rishi chadda",
+        "Flora saini "
+      ],
+      "director": "karan Anshuman"
+    }
+
 
 ]
